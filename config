@@ -1,0 +1,13 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+	ignorecase = true
+	precomposeunicode = true
+[user]
+	email = maria.loginova@icloud.com
+	name = Maria
+[remote "origin"]
+	url = https://github.com/Marialogin/project.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
